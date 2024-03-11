@@ -1,6 +1,6 @@
 # Intermediate React, v5
 
-- [FrontendMasters Course](https://frontendmasters.com/courses/complete-react-v8/)
+- [FrontendMasters Course](https://frontendmasters.com/courses/intermediate-react-v5/)
 - [Course Website](https://react-v8.holt.courses/)
 - [Course Repo](https://github.com/btholt/complete-intro-to-react-v8/)
 
